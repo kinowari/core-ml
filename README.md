@@ -1,2 +1,2 @@
 # core-ml
-Simple realization ml althoritm
+Simple realization of ml althoritm
